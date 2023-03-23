@@ -1,0 +1,15 @@
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\bin\Debug\net6.0\BFS_Algorithm.exe
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\bin\Debug\net6.0\BFS_Algorithm.deps.json
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\bin\Debug\net6.0\BFS_Algorithm.runtimeconfig.json
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\bin\Debug\net6.0\BFS_Algorithm.dll
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\bin\Debug\net6.0\BFS_Algorithm.pdb
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.csproj.AssemblyReference.cache
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.AssemblyInfoInputs.cache
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.AssemblyInfo.cs
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.csproj.CoreCompileInputs.cache
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.dll
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\refint\BFS_Algorithm.dll
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.pdb
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\BFS_Algorithm.genruntimeconfig.cache
+D:\PersonalProject\BlazorApp\BFS_Algorithm\BFS_Algorithm\obj\Debug\net6.0\ref\BFS_Algorithm.dll
